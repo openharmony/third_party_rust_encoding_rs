@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "encoding_rs",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.8.32",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/hsivonen/encoding_rs",
+    "Description": "A Gecko-oriented implementation of the Encoding Standard."
+  }
+]
